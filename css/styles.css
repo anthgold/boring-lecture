@@ -1,4 +1,4 @@
-p.intro {
+/*p.intro {
   width: 50%;
   font-style: italic;
   text-decoration: underline;
@@ -15,11 +15,23 @@ h2.intro {
 }
 
 img.intro {
-  /*DO SOMETHING*/
   width: 400px;
   display: block;
   margin-left: auto;
   margin-right: auto;
+}*/
+
+.intro  {
+  color: darkred;
+  font-size: 3em;
+  font-family: cursive;
+  font-style: italic;
+  font-weight: bold;
+  white-space: nowrap;
+  /*overflow: hidden;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;*/
 }
 
 p.author {
