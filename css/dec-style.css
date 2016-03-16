@@ -14,3 +14,8 @@ img {
   float: left;
   padding-right: 10px
 }
+
+.column-header {
+  font-weight: bold;
+  font-family: sans-serif;
+}

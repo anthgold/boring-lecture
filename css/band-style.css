@@ -1,6 +1,19 @@
 .sidebar {
   float: left;
+  margin-bottom: 100%;
   padding-right: 30px;
+  padding-left: 30px;
+  margin-right: 10px;
+  background-color: lightskyblue;
+  position: absolute;
+  height: 100%;
+  overflow: hidden;
+  width: 20%
+
+}
+
+.about-band{
+  padding-left: 200px
 }
 
 img {
