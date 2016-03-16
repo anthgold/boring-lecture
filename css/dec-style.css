@@ -1,0 +1,16 @@
+.sidebar {
+  float: left;
+  padding-right: 30px;
+}
+
+img {
+  display: block;
+  float: right;
+  width: 300px;
+}
+
+.renovations-column {
+  width: 300px;
+  float: left;
+  padding-right: 10px
+}
