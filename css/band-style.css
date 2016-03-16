@@ -1,0 +1,11 @@
+.sidebar {
+  float: left;
+  padding-right: 30px;
+}
+
+img {
+  display: block;
+  float: right;
+  width: 300px;
+
+}
