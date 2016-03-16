@@ -12,10 +12,25 @@ img {
 .renovations-column {
   width: 300px;
   float: left;
-  padding-right: 10px
+  padding-right: 10px;
+  margin-top: 50px;
+  color: white;
+  /*margin-bottom: 0px;*/
 }
 
 .column-header {
   font-weight: bold;
   font-family: sans-serif;
+}
+
+#before {
+  background-color: rgba(0, 0, 255, 0.65);
+}
+
+#during {
+  background-color: rgba(221, 0, 255, 0.65);
+}
+
+#after {
+  background-color: rgba(255, 0, 0, 0.65);
 }
